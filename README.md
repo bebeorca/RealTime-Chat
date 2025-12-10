@@ -1,5 +1,4 @@
-#install dependencies
+//install dependencies
 - npm i
-
-#run with nodemon
+//run with nodemon
 - npm run dev
